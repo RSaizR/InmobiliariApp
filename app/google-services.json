@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441051954667",
+    "project_id": "inmobiliariapp-fcd38",
+    "storage_bucket": "inmobiliariapp-fcd38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441051954667:android:d551a4a9e95f7f2699adae",
+        "android_client_info": {
+          "package_name": "com.example.inmobiliariapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441051954667-em9efgfmqao98q643di5hnpv6897t1on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGEqndkoHPdSI0ia6E10vJFiF6xsyzOFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441051954667-em9efgfmqao98q643di5hnpv6897t1on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
